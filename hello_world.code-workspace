@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../hello_world"
+		},
+		{
+			"name": "cyd_hello_world",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
